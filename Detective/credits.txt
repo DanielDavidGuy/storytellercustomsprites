@@ -1,10 +1,10 @@
 Xang
-- detective_drink_poison
-- detective_drink_wine
-- detective_miracle
-- detective_miracle_7
+- Drink Poison
+- Drink Wine
+- Miracle
+- Miracle_7
 
 Prezes
-- ema_icon_detective_idle
-- ema_icon_detective_love_heart
-- ema_icon_detective_wine_glass
+- Idle Icon
+- Love Heart Icon
+- Wine Glass Icon
