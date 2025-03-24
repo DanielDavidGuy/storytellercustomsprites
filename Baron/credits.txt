@@ -1,0 +1,5 @@
+Prezes
+- ema_icon_time_wine_glass
+- tim_drink_poison
+- tim_drink_wine
+- tim_taking_poison
