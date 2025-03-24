@@ -4,7 +4,7 @@ In this repository, you'll find a collection of community-made sprites that fill
 Spriters:
 - @DanielDavidGuy
 - @NotSoDogNinja
-- @xaviercyoppizzatowerfan
-- @patryk2663
+- Xang (@xaviercyoppizzatowerfan)
+- Prezes (@patryk2663)
   
 Specific credits can be found in each character's folder
